@@ -5,5 +5,6 @@ public class SnakeLader {
 
         System.out.println("Start the Snake and Ladder Game");
         System.out.println("Single Player at Start Position 0");
+        
     }
 }
