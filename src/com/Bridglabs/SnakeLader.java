@@ -5,6 +5,10 @@ public class SnakeLader {
 
         System.out.println("Start the Snake and Ladder Game");
         System.out.println("Single Player at Start Position 0");
-        
+
+            int RollDice=(int)(Math.random()*6+1);
+            System.out.println("Player 1 rolls the die and get: "+RollDice);
+        }
     }
-}
+
+
